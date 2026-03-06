@@ -3,6 +3,7 @@
   Phím                    Chức năng
   ----------------------- --------------------
   Esc                     Thoát chương trình
+  
   Ctrl + kéo chuột trái   Di chuyển GIF
   
   Ctrl + →                Tăng tốc GIF
